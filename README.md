@@ -1,1 +1,1 @@
-My name is Saran and today is Sunday, December 5, 5:25 PM GMT+5:30.
+My name is Saran and today is Sunday, 5 December, 18:22 GMT+5:30.
