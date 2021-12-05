@@ -1,1 +1,0 @@
-My name is Saran and today is Saturday, December 4, 9:11 PM GMT+5:30.
