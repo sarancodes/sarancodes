@@ -1,9 +1,9 @@
 <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey! Nice to see you.</h1>
-My name is Saran and today is Monday, 6 December, 20:50 GMT+5:30.
+My name is Saran and today is Monday, 6 December, 20:57 GMT+5:30.
 <h3>Things I code with</h3>
 <p>
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="linux" src="https://img.shields.io/badge/-Linux-grey?style=flat-square&logo=Linux&logoColor=yellow"/>
+  <img alt="linux" src="https://img.shields.io/badge/-Linux-brightgreen?style=flat-square&logo=Linux&logoColor=white"/>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="chatbot" src="https://img.shields.io/badge/-Chatbot-yellow?style=flat-square&logo=Chatbot&logoColor=white"/>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -13,5 +13,5 @@ My name is Saran and today is Monday, 6 December, 20:50 GMT+5:30.
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 6 December, 20:50 GMT+5:30<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 6 December, 20:57 GMT+5:30<br />
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" />
