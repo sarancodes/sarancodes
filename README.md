@@ -1,7 +1,5 @@
 <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey! Nice to see you.</h1>
-My name is Saran and today is Saturday, 1 January, 08:41 GMT+5:30.
-<h3>:star: :fireworks: :sparkler: :tada: HAPPY NEW YEAR 2022 :tada: :sparkler: :fireworks: :star: </h3>
-
+My name is Saran and today is Saturday, 1 January, 10:09 GMT+5:30.
 <h3>Things I code with</h3>
 <p>
   <img alt="github" src="https://img.shields.io/badge/-Github-grey?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -20,7 +18,7 @@ My name is Saran and today is Saturday, 1 January, 08:41 GMT+5:30.
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 1 January, 08:41 GMT+5:30<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 1 January, 10:09 GMT+5:30<br />
 <p align="center"><img alt="counter" src="https://komarev.com/ghpvc/?username=sarancodes&color=blueviolet"/> </p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" />
 
