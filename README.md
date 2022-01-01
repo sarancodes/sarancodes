@@ -1,5 +1,7 @@
 <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey! Nice to see you.</h1>
 My name is Saran and today is Saturday, 1 January, 08:41 GMT+5:30.
+<h3>:star: :fireworks: :sparkler: :tada: HAPPY NEW YEAR 2022 :tada: :sparkler: :fireworks: :star: </h3>
+
 <h3>Things I code with</h3>
 <p>
   <img alt="github" src="https://img.shields.io/badge/-Github-grey?style=flat-square&logo=GitHub&logoColor=white"/>
