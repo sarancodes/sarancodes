@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey! Nice to see you.</h1>
+<h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3px"> Hey! Nice to see you.</h1>
 My name is Saran and today is Sunday, 5 June, 14:39 GMT+5:30.
 <h3>Things I code with</h3>
 <p>
