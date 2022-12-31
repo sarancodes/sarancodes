@@ -1,14 +1,14 @@
 <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey! Nice to see you.</h1>
-My name is Saran and today is Saturday, 31 December, 11:41 GMT+5:30.
+My name is Saran and today is Saturday, 31 December, 13:20 GMT+5:30.
 <h3>Things I code with</h3>
 <p>
+  <img alt="github" src="https://img.shields.io/badge/-Github-grey?style=flat-square&logo=GitHub&logoColor=white"/>
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="chatbot" src="https://img.shields.io/badge/-Chatbot-07C160?style=flat-square&logo=Chatbot&logoColor=white"/>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-0094F5?style=flat-square&logo=flutter&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-brightgreen?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="github" src="https://img.shields.io/badge/-Github-grey?style=flat-square&logo=GitHub&logoColor=white"/>
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 <h3>Github Stats</h3>
 <p> <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=sarancodes&show_icons=true&theme=tokyonight"/>
@@ -18,7 +18,7 @@ My name is Saran and today is Saturday, 31 December, 11:41 GMT+5:30.
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 31 December, 11:41 GMT+5:30<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 31 December, 13:20 GMT+5:30<br />
 <p align="center"><img alt="counter" src="https://komarev.com/ghpvc/?username=sarancodes&color=blueviolet"/> </p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" />
 
