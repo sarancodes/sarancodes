@@ -3,7 +3,7 @@ I am Saran Kumar
 <h3>Things I code with</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=java,c,linux,python,html,js,css" />
   </a>
 </p>
 <h3>Github Stats</h3>
