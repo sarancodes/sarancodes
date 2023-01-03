@@ -10,7 +10,7 @@ I am Saran Kumar
 <p> <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=sarancodes&show_icons=true&theme=tokyonight"/>
 </p>
 <h3>Where to find me</h3>
-<p><a href="https://github.com/sarancodes" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/sarancodes" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href=mailto:sarancodes@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<p><a href="https://github.com/sarancodes" target="_blank"><img alt="Github" src="https://skillicons.dev/icons?i=github" /></a> <a href="https://twitter.com/sarancodes" target="_blank"><img alt="Twitter" src="https://skillicons.dev/icons?i=twitter" /></a> <a href=mailto:sarancodes@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ------------
