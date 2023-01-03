@@ -18,7 +18,7 @@ My name is Saran and today is Tuesday, 3 January at 14:39 GMT+5:30.
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, 3 January at 14:39 GMT+5:30<br />
+
 <p align="center"><img alt="counter" src="https://komarev.com/ghpvc/?username=sarancodes&color=blueviolet"/> </p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" />
 
