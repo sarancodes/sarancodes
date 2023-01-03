@@ -1,14 +1,10 @@
 <h1><img src="https://github.com/sarancodes/sarancodes/blob/66f6f67d57f39fa4026e9d98b500a8dd13a773af/wave.gif" width="30px"> Hey! Nice to see you.</h1>
 I am Saran Kumar 
 <h3>Things I code with</h3>
-<p>
-  <img alt="github" src="https://img.shields.io/badge/-Github-grey?style=flat-square&logo=GitHub&logoColor=white"/>
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="chatbot" src="https://img.shields.io/badge/-Chatbot-07C160?style=flat-square&logo=Chatbot&logoColor=white"/>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-0094F5?style=flat-square&logo=flutter&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
 </p>
 <h3>Github Stats</h3>
 <p> <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=sarancodes&show_icons=true&theme=tokyonight"/>
