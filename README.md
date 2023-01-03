@@ -1,5 +1,5 @@
-<h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey! Nice to see you.</h1>
-My name is Saran and today is Tuesday, 3 January at 14:39 GMT+5:30.
+<h1><img src="https://github.com/sarancodes/sarancodes/blob/66f6f67d57f39fa4026e9d98b500a8dd13a773af/wave.gif" width="30px"> Hey! Nice to see you.</h1>
+I am Saran Kumar 
 <h3>Things I code with</h3>
 <p>
   <img alt="github" src="https://img.shields.io/badge/-Github-grey?style=flat-square&logo=GitHub&logoColor=white"/>
