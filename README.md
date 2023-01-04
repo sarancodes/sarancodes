@@ -12,7 +12,9 @@ I am Saran Kumar
 </p>
 
 <h3>Trophies</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarancodes" alt="sarancodes" /></a> </p>
+<p align="left"> <a href="https://github.com/sarancodes"><img src="https://github-profile-trophy.vercel.app/?username=sarancodes" alt="sarancodes" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,7 +24,7 @@ I am Saran Kumar
 <a href="https://codeforces.com/profile/sarancodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sarancodes" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarancodes&" alt="sarancodes" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarancodes" alt="sarancodes" /></p>
 
 ------------
 
