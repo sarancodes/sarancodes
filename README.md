@@ -1,6 +1,6 @@
 <h1><img src="https://github.com/sarancodes/sarancodes/blob/66f6f67d57f39fa4026e9d98b500a8dd13a773af/wave.gif" width="30px"> Hey! Nice to see you.</h1>
 
-I am Saran Kumar, a passionate developer 
+<h3>I am Saran Kumar, a passionate developer</h3>
 
 ♥️ I love programming and problem solving
 
