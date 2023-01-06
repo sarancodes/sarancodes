@@ -2,13 +2,13 @@
 
 <h3>I am Saran Kumar, a passionate developer</h3>
 
-♥️ I love programming and problem solving
+ ♥️ I love programming and problem solving
 
-🎯I am interested in learning new technologies and applying them to contribute to the world of open source. 
+🎯 I am interested in learning new technologies and applying them to contribute to the world of open source. 
 
 📝 I regularly write articles on [dev.to](https://dev.to/sarancodes)
 
-🐧I am comfortable with linux and had also made some custom themes and bootloaders for OS.
+🐧 I am comfortable with linux and had also made some custom themes and bootloaders for OS.
 
 
 🌱 I’m currently learning **react framework**
