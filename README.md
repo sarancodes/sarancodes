@@ -1,40 +1,78 @@
-<h1><img src="https://github.com/sarancodes/sarancodes/blob/66f6f67d57f39fa4026e9d98b500a8dd13a773af/wave.gif" width="30px"> Hey! Nice to see you.</h1>
-
-<h3>I am Saran Kumar, a passionate developer</h3>
-
- ♥️ I love programming and problem solving
-
-🎯 I am interested in learning new technologies and applying them to contribute to the world of open source. 
-
-📝 I usually write articles on [dev.to](https://dev.to/sarancodes)
-
-🐧 I am comfortable with linux and had also made some custom themes and bootloaders for OS.
-
-
-🌱 I’m currently learning **react framework**
-<h3>Languages and Tools</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-</p>
-<h3>Github Stats</h3>
-<p> <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=sarancodes&show_icons=true&theme=tokyonight"/>
+<h1 align="center">Hi there, I'm Saran Kumar 👋</h1>
+<p align="center">
+  <b>Full Stack Developer | Frontend Specialist | AI/ML Explorer</b><br/>
+  <i>Crafting intuitive experiences at the intersection of code, design, and intelligence</i>
 </p>
 
-<h3>Trophies</h3>
-<p align="left"> <a href="https://github.com/sarancodes"><img src="https://github-profile-trophy.vercel.app/?username=sarancodes" alt="sarancodes" /></a> </p>
+---
 
+### 🧠 About Me
 
+- 💻 Passionate about building scalable web apps with beautiful, intuitive UIs  
+- 🌐 Strong interest in full-stack development using modern frameworks  
+- 🤖 Exploring Artificial Intelligence, Machine Learning & automation  
+- 🧪 Linux enthusiast & open-source contributor
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/sarancodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sarancodes" height="30" width="40" /></a>
-<a href="https://twitter.com/sarancodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarancodes" height="30" width="40" /></a>
+---
+
+### 🚀 Tech Toolbox
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,sass,nodejs,express,python,java,git,mongodb,mysql,figma,docker,vite" />
+</div>
+
+---
+
+### 💡 Interests & Highlights
+
+- 🔭 Currently exploring AI/ML projects with Python & OpenAI 
+- ⚙️ Building full-stack apps with **MERN**, **Next.js**, and **Spring Boot**
+- 🧩 Designing component systems with Tailwind & SCSS
+- ✍️ Writing clean, modular, reusable code
+- 🧠 Continuously learning & sharing through open-source
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description | Tech Stack | Demo / Repo |
+|--------|-------------|-------------|-------------|
+| **Chat‑Room‑Messenger** | Real‑time chat app with Firebase Auth & DB | React, Firebase, SCSS | [🔗 View Repo](https://github.com/sarancodes/Chat-Room-Messenger) |
+| **AI Chatbot (Abby)** | Browser-based chatbot using AIML & JS logic | HTML, CSS, JS | [🤖 Abby Chatbot](https://github.com/sarancodes/ai-chatbot) |
+| **ProcureIQ** *(Concept)* | AI-based quotation recommender | React, Python (ML), FastAPI | Coming soon |
+| **Custom GRUB Themes** | Linux bootloader themes (Matrix, Pentract) | Shell + Design | [Matrix](https://github.com/sarancodes/matrix-grub-theme) · [Pentract](https://github.com/sarancodes/pentract-grub-theme) |
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sarancodes&theme=monokai&column=7&margin-w=10&no-frame=true" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarancodes" alt="sarancodes" /></p>
+---
 
-------------
+### 📊 GitHub Stats
 
-<p align="center"><img alt="counter" src="https://komarev.com/ghpvc/?username=sarancodes&color=blueviolet"/> </p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarancodes&show_icons=true&theme=radical" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarancodes&theme=radical" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarancodes&layout=compact&theme=radical" />
+</p>
 
+---
+
+### 🔗 Let's Connect
+
+<p align="center"> <a href="https://linkedin.com/in/sarankumar03" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://twitter.com/ursarankumar" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://github.com/sarancodes" target="_blank"> <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://dev.to/sarancodes" target="_blank"> <img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /> </a> </p> <p align="center"> <i>Whether it's a cool collab 🤝, an idea 💡, or just geeking out about tech 💬 — let's chat!</i><br /> 📨 DM me on Twitter or drop a note on LinkedIn. </p>
+
+---
+
+### ☕ Fun Fact
+
+> I debug best with chai in hand.  
+> I love to code in the dark (theme). 😄
+
+---
+
+<p align="center"> <em>“Design is not just what it looks like and feels like. Design is how it works.”</em><br/> <b>– Steve Jobs</b> </p>
